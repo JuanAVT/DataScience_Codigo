@@ -2,12 +2,12 @@
 
 ## Clonar repositorios
 
-'''bash
+```bash
 git clone https://github.com/repositorio
-'''
+```
 
 ## Descargar cambios del repositorio
 
-'''bash
+```bash
 git pull origin nombre_rama
-'''
+```
